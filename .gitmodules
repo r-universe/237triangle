@@ -5,3 +5,6 @@
 [submodule "SurveyCC"]
 	path = SurveyCC
 	url = https://github.com/237triangle/surveycc
+[submodule "surveynnet"]
+	path = surveynnet
+	url = https://github.com/237triangle/surveynnet
